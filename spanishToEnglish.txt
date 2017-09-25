@@ -1,0 +1,94 @@
+gracias?	thanks 
+ser?	to be 
+a?	to 
+ir?	to go 
+estar?	to be 
+bueno?	good 
+su?	your, her, his, their 
+hacer?	to do, to make 
+amigo?	friend
+no?	no 
+en?	on, in 
+haber?	to have as an auxiliary verb 
+tener?	to have, to possess 
+ahora?	now 
+y?	and 
+por?	for, by 
+amar?	to love 
+quien?	who 
+para?	for, to 
+venir?	to come 
+porque?	because 
+antes?	before 
+más?	more 
+bien?	well as an adverb 
+querer?	to want, to love 
+hola?	hello 
+tú?	you 
+poder?	to be able 
+gustar?	to be pleasing 
+poner?	to put 
+casi?	almost 
+saber?	to know 
+como?	like, as 
+donde?	where 
+dar?	to give 
+pero?	but 
+se?	itself, herself, himself, themselves 
+mucho?	much 
+nuevo?	new 
+cuando?	when 
+chico?	boy
+chica?	girl 
+entender?	to understand 
+si?	if 
+o?	or 
+feliz?	happy 
+todo?	all, every 
+mismo?	same 
+muy?	very 
+nunca?	never 
+yo?	I, me 
+si?	yes 
+grande?	big, great 
+deber?	to owe, should 
+usted?	you 
+bajo?	low, under 
+otro?	other 
+salir?	to leave 
+hora?	hour
+desde?	from 
+ver?	to see 
+malo?	bad 
+pensar?	to think 
+hasta?	until 
+tanto?	used in making comparisons 
+entre?	between, among 
+durante?	during 
+llevar?	to wear, to carry 
+siempre?	always 
+empezar?	to begin 
+leer?	to read 
+cosa?	thing 
+sacar?	to take out, to remove 
+conocer?	to know 
+primero?	first 
+andar?	to walk 
+sobre?	over, about 
+echar?	to throw 
+sin?	without 
+decir?	to say 
+trabajar?	to work 
+nosotros?	we, us 
+tambien?	also 
+adios?	goodbye 
+comer?	to eat 
+triste?	sad 
+país?	country 
+escuchar?	to listen, to listen to 
+hombre?	man 
+mujer?	woman 
+le?	indirect-object pronoun 
+creer?	to believe, to think 
+encontrar?	to find 
+beber?	to drink 
